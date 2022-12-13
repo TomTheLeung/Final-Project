@@ -1,0 +1,36 @@
+body{
+    background-color: orchid;
+    font-family: "Times New Roman", Times, serif;
+}
+
+img{
+    width: 45%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    font-weight: 1000;
+    color: rgb(0, 52, 209);
+    font-size: 60px;
+}
+
+h2{
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.handwriting {
+    font-family: 'Algerian Regular', cursive;
+}
